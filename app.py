@@ -66,3 +66,4 @@ https://realpython.com/python-quiz-application/
 
 # Adding the enumerate() function to make the app more forgiving
 # By adding a label to the answer
+# ie Update the application to use enumerate() to print the index of each answer alternative:
